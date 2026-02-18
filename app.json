@@ -1,0 +1,70 @@
+{
+  "id": "5c09f130-cd9d-48da-960b-c493e7ab9d13",
+  "name": "Devinci",
+  "publisher": "OnTarget",
+  "version": "1.0.0.79",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+{
+      "id": "71eb73a4-5141-43a0-bb26-2c4db8c73d45",
+      "name": "Tinx E-Commerce Connector",
+      "version": "22.8.0.0",
+      "publisher": "Tinx-IT"
+    },
+    {
+      "id": "18e290e2-85e4-4e98-b3f6-d5e712c53d80",
+      "name": "Tinx Magento 2 Connector",
+      "version": "22.8.0.0",
+      "publisher": "Tinx-IT"
+    },
+    {
+      "id": "ba1776ba-1198-4b4c-a61e-c4612f1880d5",
+      "version": "2.15.9155.1",
+      "publisher": "Insight Works",
+      "name": "IWorks Common"
+    },
+    {
+      "id": "fd33424b-edc5-4305-b680-6a0bd13c1578",
+      "name": "Lanham Associates",
+      "version": "21.2.3.0",
+      "publisher": "Lanham EDI"
+    },
+    {
+      "id": "d50afbbf-aff3-4dac-bce7-8686b375b994",
+      "publisher": "Insight Works",
+      "name": "DocXtender",
+      "version": "2.1.8635.2"
+    },
+    {
+      "id": "5716C909-A743-461e-AC12-D99759152986",
+      "name": "Visual Production Scheduler",
+      "publisher": "NETRONIC Software GmbH",
+      "version": "1.25.1.0"
+    }
+    
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50500,
+      "to": 50600
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

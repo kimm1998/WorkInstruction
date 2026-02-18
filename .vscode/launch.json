@@ -1,0 +1,50 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "DEV",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "Dev",
+            "tenant": "b7b2b082-ec97-4025-a594-b87e6ae5bbc3",
+            "startupCompany": "",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "ForceSync"
+        }
+        // ,
+        // {
+        //     "name": "Sandbox_Test",
+        //     "request": "launch",
+        //     "type": "al",
+        //     "environmentType": "Sandbox",
+        //     "environmentName": "Sandbox_Test",
+        //     "tenant": "b7b2b082-ec97-4025-a594-b87e6ae5bbc3",
+        //     "startupCompany": "",
+        //     "breakOnError": "All",
+        //     "launchBrowser": true,
+        //     "enableLongRunningSqlStatements": true,
+        //     "enableSqlInformationDebugger": true,
+        //     "schemaUpdateMode": "ForceSync"
+        // }
+        // ,
+        // {
+        //     "name": "UAT",
+        //     "request": "launch",
+        //     "type": "al",
+        //     "environmentType": "Sandbox",
+        //     "environmentName": "UAT",
+        //     "tenant": "b7b2b082-ec97-4025-a594-b87e6ae5bbc3",
+        //     "startupCompany": "",
+        //     "breakOnError": "All",
+        //     "launchBrowser": true,
+        //     "enableLongRunningSqlStatements": true,
+        //     "enableSqlInformationDebugger": true,
+        //     "schemaUpdateMode": "ForceSync"
+        // }
+
+    ]
+}
